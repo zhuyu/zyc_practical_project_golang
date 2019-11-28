@@ -1,0 +1,2 @@
+# zyc_practical_project_golang
+总结自己工作经验中所用到的一些案例和写法，纯手工敲并测试通过，涵盖数据结构，设计模式及其他一些实用性代码等，所用语言有php，golang，shell等，本项目主要是基于golang代码
